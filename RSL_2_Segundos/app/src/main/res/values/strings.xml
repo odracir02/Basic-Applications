@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSL_SalarioSemanal</string>
+    <string name="calculadora_de_salario_semanal">Calculadora de salario semanal</string>
+    <string name="horas">Horas:</string>
+</resources>

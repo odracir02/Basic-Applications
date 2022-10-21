@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor de edad gato-humano</string>
+    <string name="hint_edad_gatuna">Introduce la edad gatuna</string>
+    <string name="button_calcular_edad_humana">Calcular edad humana</string>
+</resources>
